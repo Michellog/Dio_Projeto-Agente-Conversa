@@ -1,4 +1,4 @@
-# 🤖 Assistente de Voz Ana - Agente de Conversa
+#  Assistente de Voz Ana - Agente de Conversa
 
 Este projeto é um assistente virtual inteligente e proativo que permite a interação por voz utilizando as tecnologias mais avançadas da OpenAI. Ele foi desenvolvido como parte do desafio da DIO (Digital Innovation One) para criar um agente conversacional robusto e funcional.
 
